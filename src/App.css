@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.App {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -23,9 +23,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
   background-image: url("/public/SMARTGEN.jpg");
-  background-size:contain;       /* или cover */
+  background-size:contain;    
   background-repeat: no-repeat;
-  background-position: center ;
+  background-position: center ; 
 
 }
 

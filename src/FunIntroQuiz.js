@@ -101,10 +101,7 @@ export default function FunIntroQuiz() {
               <p className="text-lg font-bold text-green-700">
                 Верно! Это я 😎
               </p>
-              <img
-                src="/стикер лицо.png"
-                alt="Настя"
-              />
+              <img src={process.env.PUBLIC_URL + "/стикер лицо.png"} alt="Настя" />
             </div>
           ) : (
             <>
@@ -116,7 +113,7 @@ export default function FunIntroQuiz() {
                   type="text"
                   value={answer}
                   onChange={(e) => setAnswer(e.target.value)}
-                  style={{textAlign:"center"}}
+                  style={{ textAlign: "center" }}
                 />
                 {!isLastQuestion && (
                   <Button onClick={handleCheck}>Проверить</Button>

@@ -1,10 +1,6 @@
 body {
   margin: 0;
-  background: linear-gradient(to bottom right, #001f3f, #0077b6); /* темно-синий градиент */
-  color: #ffffff;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-  /* -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; */
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
