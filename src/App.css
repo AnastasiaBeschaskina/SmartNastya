@@ -22,17 +22,22 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: url("/public/SMARTGEN.jpg");
+  background-size:contain;       /* или cover */
+  background-repeat: no-repeat;
+  background-position: center ;
+
 }
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
-}
+} */
