@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SmartNastya/static/css/main.06783453.css",
-    "main.js": "/SmartNastya/static/js/main.6a20281a.js",
+    "main.css": "/SmartNastya/static/css/main.95985175.css",
+    "main.js": "/SmartNastya/static/js/main.7b443521.js",
     "static/js/453.803cb5b0.chunk.js": "/SmartNastya/static/js/453.803cb5b0.chunk.js",
     "static/media/SMARTGEN.jpg": "/SmartNastya/static/media/SMARTGEN.1dc492af5b3a257277f2.jpg",
     "index.html": "/SmartNastya/index.html",
-    "main.06783453.css.map": "/SmartNastya/static/css/main.06783453.css.map",
-    "main.6a20281a.js.map": "/SmartNastya/static/js/main.6a20281a.js.map",
+    "main.95985175.css.map": "/SmartNastya/static/css/main.95985175.css.map",
+    "main.7b443521.js.map": "/SmartNastya/static/js/main.7b443521.js.map",
     "453.803cb5b0.chunk.js.map": "/SmartNastya/static/js/453.803cb5b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06783453.css",
-    "static/js/main.6a20281a.js"
+    "static/css/main.95985175.css",
+    "static/js/main.7b443521.js"
   ]
 }
